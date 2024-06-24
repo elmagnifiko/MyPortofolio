@@ -42,7 +42,7 @@ export default function Home() {
 
         <link rel="icon" href="/fav.png" />
       </Head>
-      <main className=" bg-white   dark: dark:bg-gray-900 px-0 md:px-20 lg:px-30  ">
+      <main className=" bg-white   dark: dark:bg-gray-900 px-10 md:px-20 lg:px-30  ">
         <section className="max-w-4xl min-h-screen">
           <nav className="py-10 mb-12 flex justify-between dark:text-white">
             <h1 className="font-burtons text-xl">DevelopedByA.Razak</h1>
