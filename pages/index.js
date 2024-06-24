@@ -86,7 +86,7 @@ export default function Home() {
               >
                 coursera
               </a>{" "}
-              . Aime la musique, les jeux et le sport..
+              . Aime la lecture, les jeux vidéos et le sport..
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
             <a
@@ -168,7 +168,7 @@ export default function Home() {
           <div>
             <h3 className="text-3xl py-1 dark:text-white ">Portofolio</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-            Depuis que j'ai commencé mon voyage en 2022, j'ai appris sur dee nombreuses plateformes comme
+            Depuis que j'ai commencé mon voyage en 2022, j'ai appris sur des nombreuses plateformes comme
               <a
                 className="hover:underline ml-1 text-blue-500"
                 href="https://www.freecodecamp.org/learn"
@@ -197,7 +197,7 @@ export default function Home() {
               >
                 ,openclassroom
               </a>
-              ... etc. Et en 2022 j'ai rejoint un codecamp appelé{" "}
+              ... etc. Et en fin 2022 j'ai rejoint un codecamp appelé{" "}
               <a
                 className="hover:underline ml-1 text-blue-500"
                 href="https://www.codeloccol.org/"
