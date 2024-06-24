@@ -42,7 +42,7 @@ export default function Home() {
 
         <link rel="icon" href="/fav.png" />
       </Head>
-      <main className=" bg-white   dark: dark:bg-gray-900  px-20 ">
+      <main className=" bg-white   dark: dark:bg-gray-900 px-0 md:px-20 lg:px-30  ">
         <section className="max-w-4xl min-h-screen">
           <nav className="py-10 mb-12 flex justify-between dark:text-white">
             <h1 className="font-burtons text-xl">DevelopedByA.Razak</h1>
@@ -219,7 +219,7 @@ export default function Home() {
           <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap justify-center ">
             <div className="growd basis-1/4 flex-4 ">
               <a
-                href="https://agogo-i2uq-bim5frln5-abdoul-razaks-projects.vercel.app"
+                href="https://agogo-i2uq.vercel.app/"
                 target="_blank"
               >
                 <Image
@@ -233,7 +233,7 @@ export default function Home() {
             </div>
             <div className="growd basis-1/4 flex-4">
               <a
-                href="https://calculator-4wyq7gzp2-abdoul-razaks-projects.vercel.app"
+                href="https://calculator-six-topaz-96.vercel.app/"
                 target="_blank"
               >
                 <Image
@@ -247,7 +247,7 @@ export default function Home() {
             </div>
             <div className="growd basis-1/4 flex-4">
               <a
-                href="https://groupe10-nsjqilpd3-abdoul-razaks-projects.vercel.app"
+                href="https://groupe10.vercel.app/"
                 target="_blank"
               >
                 <Image
@@ -261,7 +261,7 @@ export default function Home() {
             </div>
             <div className="growd basis-1/4 flex-4">
               <a
-                href="https://todo-list-26rorsmiy-abdoul-razaks-projects.vercel.app"
+                href="https://todo-list-gold-beta.vercel.app/"
                 target="_blank"
               >
                 <Image
@@ -275,7 +275,7 @@ export default function Home() {
             </div>
             <div className="growd basis-1/4 flex-4">
               <a
-                href="https://shopping-cart-gtbyhbbf2-abdoul-razaks-projects.vercel.app"
+                href="https://shopping-cart-six-delta.vercel.app/"
                 target="_blank"
               >
                 <Image
@@ -289,7 +289,7 @@ export default function Home() {
             </div>
             <div className="growd basis-1/4 flex-4">
               <a
-                href="https://generator-ds4pf886a-abdoul-razaks-projects.vercel.app"
+                href="https://generator-gules-gamma.vercel.app/"
                 target="_blank"
               >
                 <Image
